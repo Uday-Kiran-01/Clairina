@@ -1,0 +1,33 @@
+{
+  "current_avg": {
+    "budget": 3572.3341899999996,
+    "grid": {
+      "rev": 5884.602978822459,
+      "alloc": {
+        "spend_email": 545.3842387568047,
+        "spend_google": 888.8863044465951,
+        "spend_meta": 878.091884051879,
+        "spend_organic": 0.14834643916016152,
+        "spend_tiktok": 505.93975375475657,
+        "spend_tv": 753.8836625508037
+      }
+    },
+    "scipy": {
+      "rev": 5909.43148025125,
+      "alloc": {
+        "spend_email": 800.9296336801948,
+        "spend_google": 840.0893589193554,
+        "spend_meta": 809.3393360388066,
+        "spend_organic": 9.359625621032012e-10,
+        "spend_tiktok": 472.12181292576344,
+        "spend_tv": 649.8540484354997
+      },
+      "success": true
+    },
+    "baseline": {
+      "rev": 5390.8854377034595,
+      "scaled_baseline_rev": 5390.8854377034595,
+      "current_total": 3572.3341899999996
+    }
+  }
+}

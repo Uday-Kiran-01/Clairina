@@ -1,0 +1,38 @@
+{
+  "spend_email": {
+    "beta": 286.51368446470826,
+    "mean_spend": 98.91145999999999,
+    "marginal_rev_per_$": 2.8676758848755517,
+    "estimated_roas": 2.8676758848755517
+  },
+  "spend_google": {
+    "beta": 300.495861897413,
+    "mean_spend": 1212.5840899999998,
+    "marginal_rev_per_$": 0.24761025162863914,
+    "estimated_roas": 0.24761025162863914
+  },
+  "spend_meta": {
+    "beta": 289.52118201597295,
+    "mean_spend": 753.3121799999999,
+    "marginal_rev_per_$": 0.3838214332108133,
+    "estimated_roas": 0.3838214332108133
+  },
+  "spend_organic": {
+    "beta": -11.335605062647232,
+    "mean_spend": 50.118790000000004,
+    "marginal_rev_per_$": -0.2217502617461648,
+    "estimated_roas": -0.2217502617461648
+  },
+  "spend_tiktok": {
+    "beta": 169.03932421011817,
+    "mean_spend": 243.11893,
+    "marginal_rev_per_$": 0.6924466046533883,
+    "estimated_roas": 0.6924466046533883
+  },
+  "spend_tv": {
+    "beta": 232.5339149735866,
+    "mean_spend": 1214.28874,
+    "marginal_rev_per_$": 0.19134046693593706,
+    "estimated_roas": 0.19134046693593706
+  }
+}

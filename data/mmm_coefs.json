@@ -1,0 +1,42 @@
+{
+  "params": {
+    "const": -2516.8888154428196,
+    "log1p_spend_email": 286.51368446470826,
+    "log1p_spend_google": 300.495861897413,
+    "log1p_spend_meta": 289.52118201597295,
+    "log1p_spend_organic": -11.335605062647232,
+    "log1p_spend_tiktok": 169.03932421011817,
+    "log1p_spend_tv": 232.5339149735866,
+    "promo_flag": 1037.0476317689843,
+    "holiday_flag": 1099.1349572992344,
+    "dayofweek": -5.502362003243278,
+    "month": -7.542550957335316
+  },
+  "ci_lower": {
+    "const": -3960.6928238834666,
+    "log1p_spend_email": 209.44977427680942,
+    "log1p_spend_google": 185.9553523126972,
+    "log1p_spend_meta": 184.43021721102073,
+    "log1p_spend_organic": -208.31159625360345,
+    "log1p_spend_tiktok": 82.68911337617743,
+    "log1p_spend_tv": 139.10141164912682,
+    "promo_flag": 881.7164387197754,
+    "holiday_flag": 604.9966762312173,
+    "dayofweek": -24.552764388925304,
+    "month": -19.232909210520962
+  },
+  "ci_upper": {
+    "const": -1073.0848070021725,
+    "log1p_spend_email": 363.5775946526071,
+    "log1p_spend_google": 415.03637148212886,
+    "log1p_spend_meta": 394.6121468209252,
+    "log1p_spend_organic": 185.640386128309,
+    "log1p_spend_tiktok": 255.3895350440589,
+    "log1p_spend_tv": 325.9664182980464,
+    "promo_flag": 1192.3788248181932,
+    "holiday_flag": 1593.2732383672515,
+    "dayofweek": 13.54804038243875,
+    "month": 4.14780729585033
+  },
+  "rsq": 0.3077116465375267
+}

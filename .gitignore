@@ -1,0 +1,47 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and environment files
+*.log
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional: large data or outputs (uncomment if needed)
+# data/*.csv
+# data/*.json
